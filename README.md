@@ -1,6 +1,6 @@
 # Draw-the-Promotion-Model
 
-There are roughly 6 personality characteristics in the bottom society, of which 4 are the bottom personality characteristics and 2 are the middle bottom personality characteristics. 
+There are roughly 6 personality characteristics in the promotion model, of which 4 are the bottom personality characteristics and 2 are the middle  personality characteristics. 
 
 ![image](https://user-images.githubusercontent.com/17419617/142194422-88373014-8b05-4be4-b8ce-785e4b8577de.png)
 
@@ -34,7 +34,7 @@ Training: Assisted training
 
 ![image](https://user-images.githubusercontent.com/17419617/142194495-9f811371-41c5-48b4-8623-b73a92e7f3a2.png)
 
-The middle bottom layer can be basically divided into two basic personality attributes of EF.
+The middle layer can be basically divided into two basic personality attributes of EF.
 
 5.Type E
 
