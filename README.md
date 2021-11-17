@@ -1,6 +1,7 @@
 # Draw-the-Promotion-Model
 
 There are roughly 6 personality characteristics in the bottom society, of which 4 are the bottom personality characteristics and 2 are the middle bottom personality characteristics. 
+
 ![image](https://user-images.githubusercontent.com/17419617/142194422-88373014-8b05-4be4-b8ce-785e4b8577de.png)
 
 The basic attributes can be divided into two categories: Suppress (negative) and Assist (positive). The bottom layer can be basically divided into four basic personality attributes of ABCD.
